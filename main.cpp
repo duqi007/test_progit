@@ -6,7 +6,7 @@
 int main()
 {
     Complex c(1.2,3.4);
-    c.Display();
+    c.Display();    				//格式化显示复数
     std::cout << "duqi" << std::endl;
     system("pause");
     return 0;

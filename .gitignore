@@ -1,0 +1,4 @@
+# ignore all .exe flies.
+*.exe
+# ignore all .log files.
+*.log
